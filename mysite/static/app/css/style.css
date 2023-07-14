@@ -1,0 +1,79 @@
+.goodnessseccont img{
+    width: 100%;
+}
+.buffaloghee{
+    background-color: fff; 
+    background-image: linear-gradient(#fff7ef, #fff);
+    background-image: -webkit-linear-gradient(#fff7ef, #fff);
+    background-image: -moz-linear-gradient(#fff7ef, #fff);
+    background-image: -o-linear-gradient(#fff7ef, #fff);
+    padding: 50px 40px;
+    border: 1px solid #fff7ef;
+    padding-bottom: 20px;
+}
+
+.buttermilk{
+    background-color: fff; 
+    background-image: linear-gradient(#fff7ef, #fff);
+    background-image: -webkit-linear-gradient(#fff7ef, #fff);
+    background-image: -moz-linear-gradient(#fff7ef, #fff);
+    background-image: -o-linear-gradient(#fff7ef, #fff);
+    padding: 50px 40px;
+    border: 1px solid #fff7ef;
+    padding-bottom: 20px;
+}
+
+.smbg{
+    background-color: fff; 
+    background-image: linear-gradient(#fff7ef, #fff);
+    background-image: -webkit-linear-gradient(#fff7ef, #fff);
+    background-image: -moz-linear-gradient(#fff7ef, #fff);
+    background-image: -o-linear-gradient(#fff7ef, #fff);
+    padding: 50px 40px;
+    border: 1px solid #fff7ef;
+    padding-bottom: 20px;
+}
+
+
+.mlkpro{
+color: #5cb85c;
+font-size: 22px; 
+line-height: 22px; 
+margin-bottom:15px; 
+width:43%; 
+margin:0 auto; text-align:center;
+}
+
+.goodnesssec a{
+text-decoration: none;
+}
+
+
+.goodnessseccont:hover {
+    background-color: #5cb85c; /* Background color on hover */
+}
+
+.goodnessseccont:hover .mlkpro {
+    color: #fff; /* Text color on hover */
+}
+
+.goodnessseccont {
+    transition: background-color 0.3s ease; /* Add transition effect for smooth color change */
+}
+
+ .contact-info li {
+      margin-bottom: 10px;
+    }
+    .header-margin {
+      margin-top: 20px;
+    }
+
+
+    .profile {
+      margin-bottom: 40px;
+    }
+
+    .profile hr {
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
